@@ -1,4 +1,5 @@
 //odd even Program in Java
+
 import java.util.Scanner;
 
 public class EvenOdd {
