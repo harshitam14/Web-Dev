@@ -17,6 +17,7 @@ function guessNumber() {
     if(number == random) {
         console.log('You guessed the correct number.');
     }
+
   }
 
 // call the function
